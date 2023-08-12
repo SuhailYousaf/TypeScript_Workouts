@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var allUser = [];
+allUser.push({ name: "suhail", email: "suhail@gmail.com" });
+console.log(allUser);
+var Persons = [];
+Persons.push("suhail");
+console.log(Persons);
+var friends = [];
+friends.push([1, 2, 3], [4, 5, 6]);
+console.log(friends);
